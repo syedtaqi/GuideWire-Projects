@@ -4,7 +4,7 @@
 
 uses java.util.*
 
-class Tables {
+class TablesofX {
   public static function main(args : String[]){
 
     //Table of X loop through 10 times
