@@ -27,7 +27,7 @@ class Blocks {
 
 
      */
-    var arrNams = {"James","Komaal","Ali","Taqi", "Anna"}
+    var arrNams = {"James","sxx","Ali","bcce", "Anna"}
     var check = arrNams.where(\a -> a.length()>4 )
     print(check)
 
